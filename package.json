@@ -1,0 +1,17 @@
+{
+  "name": "ALEXISTOGEL-BANDARTOGEL-TERPERCAYA",
+  "theme": "syntax",
+  "version": "1.0.8",
+  "description": "HANYA DI ALEXISTOGEL BANDAR TERBAIK YANG ADA DI INDONESA",
+  "keywords": [
+    "syntax",
+    "theme",
+    "material",
+    "material design"
+  ],
+  "repository": "https://github.com/alexis168168/bandar-togel-terpercaya",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
